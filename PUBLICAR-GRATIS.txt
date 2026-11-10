@@ -1,0 +1,11 @@
+LEXIS Boutique Legal - publicación gratuita
+
+1. Entra a https://github.com/ y crea una cuenta o inicia sesión.
+2. Crea un repositorio PÚBLICO llamado lexis-boutique-legal (si está disponible).
+3. En Add file > Upload files, sube TODOS los archivos de esta carpeta lexis_web, no la carpeta contenedora ni el ZIP.
+4. En Settings > Pages > Build and deployment, elige Deploy from a branch, rama main y carpeta /(root). Guarda.
+5. GitHub mostrará la dirección del sitio (habitualmente https://TUUSUARIO.github.io/lexis-boutique-legal/).
+6. Abre el sitio en celular y prueba todos los botones de WhatsApp.
+
+No compartas contraseñas. El sitio no está publicado hasta completar estos pasos.
+La identidad está basada en recortes de la imagen proporcionada, no en vectores finales.
